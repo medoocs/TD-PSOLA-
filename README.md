@@ -1,5 +1,4 @@
-# TD-PSOLA and concatenative speech synthesis
+# TD-PSOLA, concatenative and neural network speech synthesis
 
-TD-PSOLA (pomoću autokorelacije za procjenu temeljnu frekvencije) i konkatenativna sinteza govora za hrvatski jezik.
 
-A simple TD-PSOLA (using autocorrelation for fundamental frequency estimation) and concatenative speech synthesis for Croatian language.
+A simple TD-PSOLA (using autocorrelation for fundamental frequency estimation), concatenative and neural network speech synthesis for Croatian language.
